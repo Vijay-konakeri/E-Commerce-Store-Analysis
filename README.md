@@ -12,17 +12,11 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
-
 ## Tools
 
 * Microsoft Power BI
 
-## Credits
 
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
 
 ## Badges
 
